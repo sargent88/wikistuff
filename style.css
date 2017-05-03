@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 70vw;
+}
+a.link {
+    color: #0645AD;
+    text-decoration: none;
+}
+p{
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 150%;
+}
+.intro{
+    padding-top: 1.5em;
+}
+.wiki{
+    padding-right: 1.5em;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#first{
+    padding-top: 3.5em;
+}
+#fourth{
+    padding-bottom: .5em;
+}
+.wikipedia img{
+    height: 180px;
+    width: auto;
+}
+footer{
+    height: 8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 1em;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+}
